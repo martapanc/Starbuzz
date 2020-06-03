@@ -2,3 +2,5 @@
 
 Chapter 6 of Head First Android Development
 
+<img src="app/src/main/assets/Screenshot_1591222136.png" width="50%"/> <img src="app/src/main/assets/Screenshot_1591222145.png" width="50%"/> <img src="app/src/main/assets/Screenshot_1591222154.png" width="50%"/>
+
